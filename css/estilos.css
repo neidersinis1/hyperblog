@@ -43,6 +43,7 @@ body {
 .foter {
     font-size: 1.2rem;
     text-align: center;
+    margin-top: 1rem;
     
 }
 
@@ -50,6 +51,7 @@ a {
     background-color: #33A;
     color: white;
     margin: 0.5rem;
+    
     padding: 0.2rem;
     text-decoration: none;
     border: solid #333 0.1rem;
